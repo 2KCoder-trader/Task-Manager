@@ -1,0 +1,4 @@
+,name,description,status,task_id,order,id
+0,load data,3year 1year 1month,0,,0,1
+1,run fundamental data,use YFinance,0,,1,0
+2,load fundamental data,,0,,1,1
